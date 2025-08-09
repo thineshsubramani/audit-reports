@@ -1,16 +1,16 @@
 # 🛡️ GitHub Audit Report
 
-_Last updated: 2025-08-09 19:01 UTC_
+_Last updated: 2025-08-09 19:06 UTC_
 
 | Repository | Last Updated | Workflow Present | Topics | Branch |
 |------------|---------------|------------------|------|--------|
-| [thineshsubramani/audit-reports](https://github.com/thineshsubramani/audit-reports) | 2025-08-09 18:52 UTC | ✅ | - | main |
+| [thineshsubramani/repo-governance](https://github.com/thineshsubramani/repo-governance) | 2025-08-09 19:05 UTC | ✅ | certified | main |
+| [thineshsubramani/audit-reports](https://github.com/thineshsubramani/audit-reports) | 2025-08-09 19:01 UTC | ✅ | - | main |
 | [thineshsubramani/sync-ssh-id](https://github.com/thineshsubramani/sync-ssh-id) | 2025-08-06 12:17 UTC | ❌ | - | main |
 | [thineshsubramani/thineshsubramani](https://github.com/thineshsubramani/thineshsubramani) | 2025-07-30 14:46 UTC | ✅ | certified | master |
 | [thineshsubramani/syslite](https://github.com/thineshsubramani/syslite) | 2025-07-30 11:44 UTC | ❌ | certified | main |
 | [thineshsubramani/syskit](https://github.com/thineshsubramani/syskit) | 2025-07-28 17:59 UTC | ❌ | - | main |
 | [thineshsubramani/resume](https://github.com/thineshsubramani/resume) | 2025-07-28 11:46 UTC | ❌ | - | main |
-| [thineshsubramani/repo-governance](https://github.com/thineshsubramani/repo-governance) | 2025-07-22 22:40 UTC | ✅ | certified | main |
 | [thineshsubramani/kubernetes-mcp-operator](https://github.com/thineshsubramani/kubernetes-mcp-operator) | 2025-07-18 11:50 UTC | ✅ | certified | main |
 | [thineshsubramani/sheet-cli](https://github.com/thineshsubramani/sheet-cli) | 2025-07-18 11:50 UTC | ✅ | certified | main |
 | [thineshsubramani/cheatsheet](https://github.com/thineshsubramani/cheatsheet) | 2025-07-18 11:50 UTC | ✅ | certified | main |
